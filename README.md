@@ -1,16 +1,33 @@
-# React + Vite
+# 🏡 Real Estate Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive real estate web application built with [React/Vite/Your Tech Stack].  
+This project showcases property listings, detailed pages, and a cinematic design style with a luxury aesthetic.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
+👉 [View the Live Site](https://lelo-realstate.netlify.app/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- 📋 **Property Listings** – Browse available homes, apartments, and commercial spaces
+- 🖼️ **Property Details** – High-quality images, descriptions, and contact info
+- 📱 **Responsive Design** – Optimized for desktop, tablet, and mobile
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Vite, CSS (or Tailwind/Bootstrap)
+- **Deployment:** Netlify
+- **Version Control:** Git & GitHub
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/real-estate-project.git
+cd real-estate-project
